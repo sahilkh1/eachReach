@@ -1,0 +1,12 @@
+name: eachreach_front
+description: A new Flutter project.
+
+# Add your dependencies below
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  http: ^0.13.4
+  flutter_secure_storage: ^5.0.2
+  google_sign_in: ^5.0.7
+  intl: ^0.17.0
